@@ -8,6 +8,8 @@
 
 [cell types matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/Gene.cluster.tight.html)
 
+[cell types matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/Gene.cluster.change.html)
+
 ![example 1 frame](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/frame.png)
 
 ![example 1 DZQV_CD4_naive heat](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/DZQV_CD4_naive/1.png)
@@ -17,6 +19,8 @@
 [example 1 heat matrix cluster group](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/Heated.cluster.group.html)
 
 [example 1 heat matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/Heated.cluster.tight.html)
+
+[example 1 heat matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/Heated.cluster.change.html)
 
 Yes. A small number of classical immune elements can detect the cell types.
 
@@ -29,6 +33,8 @@ Yes. A small number of classical immune elements can detect the cell types.
 [example 1 flow matrix cluster group](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/Flowed.cluster.group.html)
 
 [example 1 flow matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/Flowed.cluster.tight.html)
+
+[example 1 flow matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/Flowed.cluster.change.html)
 
 Yes. Flowing improves the detection.
 
@@ -44,6 +50,8 @@ Yes. Flowing improves the detection.
 
 [example 2 heat matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.no_fill/Heated.cluster.tight.html)
 
+[example 2 heat matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.no_fill/Heated.cluster.change.html)
+
 ![example 2 DZQV_CD4_naive flow](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.no_fill/DZQV_CD4_naive/animate.gif)
 
 [example 2 flow matrix](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.no_fill/Flowed.html)
@@ -51,6 +59,8 @@ Yes. Flowing improves the detection.
 [example 2 flow matrix cluster group](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.no_fill/Flowed.cluster.group.html)
 
 [example 2 flow matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.no_fill/Flowed.cluster.tight.html)
+
+[example 2 flow matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.no_fill/Flowed.cluster.change.html)
 
 Yes. More interactions improve the detection.
 
@@ -68,6 +78,8 @@ Yes. More interactions improve the detection.
 
 [example 2 flow matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.fill_antigen_and_cells/Flowed.cluster.tight.html)
 
+[example 2 flow matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.2.fill_antigen_and_cells/Flowed.cluster.change.html)
+
 Yes. Filling improves the detection.
 
 ### How much information is encoded in a classical immune interaction?
@@ -81,6 +93,8 @@ Yes. Filling improves the detection.
 [example 3 flow matrix cluster group](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.3.fill_antigen_and_cells/Flowed.cluster.group.html)
 
 [example 3 flow matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.3.fill_antigen_and_cells/Flowed.cluster.tight.html)
+
+[example 3 flow matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.3.fill_antigen_and_cells/Flowed.cluster.change.html)
 
 A classical immune interaction may encode as much information as the transcriptome.
 

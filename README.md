@@ -100,9 +100,9 @@ A classical immune interaction may encode as much information as the transcripto
 
 [flow matrix](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/Flowed.html)
 
-[w](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/W 1.html)
+[w](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/W.1.html)
 
-[h](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/H 1.html)
+[h](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/H.1.html)
 
 [w 1 heat](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/3.1.heat.html)
 

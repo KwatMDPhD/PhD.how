@@ -8,8 +8,6 @@
 
 [cell types matrix cluster tight](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/Gene.cluster.tight.html)
 
-[cell types matrix cluster change](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/Gene.cluster.change.html)
-
 ![example 1 frame](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/frame.png)
 
 ![example 1 DZQV_CD4_naive heat](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/cell/example.1.no_fill/DZQV_CD4_naive/1.png)

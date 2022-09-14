@@ -84,6 +84,30 @@ Yes. Filling improves the detection.
 
 A classical immune interaction may encode as much information as the transcriptome.
 
-### Can the immune interactions capture influenza vaccine responses?
+### Can the immune interactions capture the influenza vaccine responses?
 
 [vaccine matrix (iCloud)](https://github.com/KwatMDPhD/ImmunePopulation.pro/raw/main/output/GSE107990/gene_x_sample_x_expression.html)
+
+[heat matrix](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/Heated.html)
+
+[flow day 0](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/SNF004_D0_batch3.html)
+
+[flow day 2](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/SNF004_D2_batch3.html)
+
+[flow day 7](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/SNF004_D7_batch3.html)
+
+[flow day 28](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/SNF004_D28_batch3.html)
+
+[flow matrix](https://github.com/KwatMDPhD/MolecularMedicine.pro/raw/main/output/vaccine/example.3.fill_antigen_and_cells/Flowed.html)
+
+[w](~/craft/pro/MolecularMedicine.pro/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/W 1.html)
+
+[h](~/craft/pro/MolecularMedicine.pro/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/H 1.html)
+
+[w 1 heat](~/craft/pro/MolecularMedicine.pro/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/3.1.heat.html)
+
+[w 2 heat](~/craft/pro/MolecularMedicine.pro/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/3.2.heat.html)
+
+[w 3 heat](~/craft/pro/MolecularMedicine.pro/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/3.3.heat.html)
+
+[h radar](~/craft/pro/MolecularMedicine.pro/output/vaccine/example.3.fill_antigen_and_cells/factorization/3/radar.html)
